@@ -1,0 +1,263 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: Verdana,Geneva,sans-serif;
+}
+h1 {
+  margin-top: 50px;
+  margin-bottom: 0;
+  font-family: "sacramento",cursive;
+  font-size: 5.625em;
+  color: #66BFBF;
+}
+
+.top-container {
+  background-color: #d9ecf2;
+  position: relative;
+  padding-top: 110px;
+  font-family: 'Pacifico', cursive;
+
+
+}
+
+.middle-container {
+background-color: #ffcbcb;
+margin-top: 0;
+padding-top: 50px;
+padding-bottom: 100px;
+}
+
+.bottom-container {
+background-color: #fddb3a;
+padding: 50px;
+margin-top:0;
+
+}
+
+.cloud1 {
+  position: absolute;
+  right:270px;
+  bottom: 240px;
+
+}
+
+.cloud2 {
+  position: absolute;
+  bottom: 300px;
+  left: 300px;
+}
+
+.mountain {
+  position: relative;
+}
+
+.head {
+  position:relative;
+  bottom: 40px;
+  line-height: 1;
+}
+
+.headpara {
+  font-family: 'Grandstander', cursive;
+  font-size: 2em;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+}
+
+a {
+  color: #ff4b5c ;
+}
+.skill-row{
+  width: 50%;
+  margin: auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  text-align: left;
+  line-height: 2;
+
+}
+
+#donation1 {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+#donation2 {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.Welcome {
+  margin-top: 50px;
+}
+
+.namaste {
+  width: 10%;
+}
+.trademark {
+  line-height: 7;
+  color: #9d65c9;
+}
+
+.links {
+  font-size: 1.2rem;
+  position: relative;
+}
+
+.footer-link1 {
+  position: relative;
+  right: 50px;
+}
+
+.footer-link3 {
+  position: relative;
+  left: 50px;
+}
+
+hr {
+  width: 10%;
+  border-style: none;
+  border-top: dotted;
+  height: 0;
+  border-width: 5px;
+  margin-top: 60px;
+  margin-bottom: 70px;
+  color:/* #ffd5cd */ #9d65c9;
+}
+
+.BUTTON_NPU {
+   background: #3D94F6;
+   background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -ms-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -o-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -webkit-gradient(to bottom, #3D94F6, #1E62D0);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFAE00;
+   font-family: Arial;
+   font-size: 21px;
+   font-weight: 100;
+   padding: 12px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_NPU:hover {
+   border: solid #DD380D 1px;
+   background: #1E62D0;
+   background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+.touch-content {
+  margin-bottom: 80px;
+  width: 40%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.touch {
+  margin-bottom: 40px;
+}
+
+.welcome-content {
+  width:40%;
+  margin-left: auto;
+  margin-right: auto;
+}
+p {
+  line-height: 2;
+}
+
+.navbar {
+  position:relative;
+  text-decoration: underline;
+}
+
+.nav1 {
+  height: 2.5rem;
+/*  background-color: blue;*/
+  width:200px;
+  position: relative;
+  left: 135px;
+  margin: 0;
+}
+
+.nav2 {
+  height: 2.5rem;
+  /* background-color: blue;*/
+  width:200px;
+  position: relative;
+  left: 355px;
+  bottom:48.8px;
+  visibility: hidden;
+}
+
+.nav3 {
+  height: 2.5rem;
+/*  background-color: blue;*/
+  width:200px;
+  position: relative;
+  left: 575px;
+  bottom:97.6px;
+}
+
+.nav4 {
+  height: 2.5rem;
+  /*background-color: blue;*/
+  width:200px;
+  position: relative;
+  left: 795px;
+  bottom:146.4px;
+  visibility: hidden;
+}
+
+.nav5 {
+  height: 2.5rem;
+/*  background-color: blue;*/
+  width:200px;
+  position: relative;
+  left: 1015px;
+  bottom:195.2px;
+}
+
+.nav1:hover {
+  background-color: gold;
+}
+
+.nav2:hover {
+  background-color: gold;
+}
+
+.nav3:hover {
+  background-color: gold;
+}
+
+.nav4:hover {
+  background-color: gold;
+}
+
+.nav5:hover {
+  background-color: gold;
+}
